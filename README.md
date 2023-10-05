@@ -1,2 +1,2 @@
-# Functions_String.h
-##### Ahmed Abd-Elghafar Diploma
+## Functions_String.h
+##### Eng : Ahmed Abd-El-ghafar Diploma
